@@ -1,0 +1,36 @@
+@import url('https://fonts.googleapis.com/css2?family=Edu+VIC+WA+NT+Beginner:wght@500&family=Open+Sans:wght@300&family=Ubuntu&display=swap');
+
+
+* {
+    background-color: rgb(149, 182, 171);
+}
+.container {
+    font-family: 'Open Sans', sans-serif;
+    width: 70%;
+    text-align: center;
+    margin: auto;
+    font-family: 'Edu VIC WA NT Beginner', cursive;
+}
+    
+
+.dice {
+    text-align: center;
+    display: inline-block;
+    font-family: 'Edu VIC WA NT Beginner', cursive;
+
+}
+h1 {
+    margin: 30px;
+    font-size: 7rem;
+    font-family: 'Edu VIC WA NT Beginner', cursive;
+}
+p {
+    font-size: 2rem;
+    font-family: 'Edu VIC WA NT Beginner', cursive;
+    font-weight: 500;
+}
+img {
+    width: 80%;
+    padding-left: 55px;
+    
+}
